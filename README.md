@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=48&pause=1000&color=000000&multiline=true&width=750&height=150&lines=Hi%2C+I'm+Arman+%F0%9F%91%8B%F0%9F%8F%BC;Python%F0%9F%90%8D+and+Java%E2%98%95%EF%B8%8F+Developer)](https://git.io/typing-svg)
